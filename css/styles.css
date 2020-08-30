@@ -2,4 +2,8 @@
 	/*Responsively resize image*/
 	max-width: 100%;
 	height: auto;
+	/*Center img element*/
+	display: block;
+    margin-left: auto;
+    margin-right: auto
 }
