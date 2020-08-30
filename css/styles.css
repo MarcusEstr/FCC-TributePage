@@ -8,6 +8,13 @@
 	color: red;
 }
 
+#subtitle {
+	color: white;
+	font-size: 18px;
+	font-style: italic;
+
+}
+
 #image {
 	/*Responsively resize image*/
 	max-width: 100%;
