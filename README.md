@@ -1,5 +1,5 @@
-#FreeCodeCamp.org
-##Responsive Web Design Projects - Build a Tribute Page
+# FreeCodeCamp.org
+## Responsive Web Design Projects - Build a Tribute Page
 
 First of five projects. Goal is to create a tribute page. The user stories are as follows (from https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page): 
 
