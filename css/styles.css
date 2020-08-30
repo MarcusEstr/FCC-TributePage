@@ -1,5 +1,6 @@
 #main {
 	background-color: #27272b;
+	font-family: 'Roboto', sans-serif;
 }
 
 #title {
@@ -21,5 +22,5 @@
 }
 
 #tribute-link {
-	color: #eb7726;
+	color: #ff8e33;
 }
