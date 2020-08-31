@@ -42,6 +42,24 @@
 	font-weight: bold;
 }
 
-#staff {
+#staff-grid {
+	display: grid;
+	grid-template-columns: auto auto;
+	background-color: #1a1816;
+	margin-left: 20%;
+	margin-right: 20%;
+}
 
+.grid-cell {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.member-name {
+	color: white;
+	margin: 0;
+}
+
+.staff-image {
+	
 }
