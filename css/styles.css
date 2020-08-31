@@ -29,12 +29,13 @@
 	color: white;
 }
 
-#tribute-info, #staff {
+#tribute-info{
 	color: white;
 	background-color: #1a1816;
 	margin-left: 20%;
 	margin-right: 20%;
 	padding: 15px 15px;
+	line-height: 25px;
 }
 
 #tribute-link {
@@ -48,18 +49,27 @@
 	background-color: #1a1816;
 	margin-left: 20%;
 	margin-right: 20%;
+	color: white;
+/*	padding-left: 15px;
+	padding-right: 15px;*/
 }
 
 .grid-cell {
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 16px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .member-name {
 	color: white;
-	margin: 0;
+	font-weight: bold;
 }
 
 .staff-image {
 	
+}
+
+.staff-text {
+	text-align: left;
+	line-height: 25px;
 }
